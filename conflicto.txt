@@ -1,2 +1,4 @@
 Linea comun
 contenido de rama1
+Contenido de rama2
+
